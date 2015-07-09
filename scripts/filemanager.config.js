@@ -19,7 +19,7 @@
         "dateFormat": "d M Y H:i",
         "serverRoot": true,
         "fileRoot": "uploads/_USER/",
-        "baseUrl": false,
+        "baseUrl": "https://kurier-dev.gsi.de/",
         "logger": false,
         "capabilities": ["select", "download", "rename", "delete", "replace"],
         "plugins": []
